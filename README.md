@@ -2,8 +2,12 @@
 中身はJavaScript, HTML, CSSの練習  
 特にp5.jsとか使っちゃう系
 一応電子透かしのデモに使用予定
-
 [OooWaterMark](https://github.com/matzTada/OooWaterMark)はこれをベースにGCTCデモ仕様になっている．
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=ugwSDbJy7Pc
+" target="_blank"><img src="http://img.youtube.com/vi/ugwSDbJy7Pc/0.jpg" 
+alt="movie on youtube" width=40% border="10" /></a>  
+[movie on youtube](https://www.youtube.com/watch?v=ugwSDbJy7Pc)    
 
 ## ざっくりと
 
